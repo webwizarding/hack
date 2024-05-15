@@ -42,7 +42,7 @@ With that we create a malicious file to upload onto the website
 ```
 The script itself allows us to use the file to execute cmd/terminal commands through accessing the file through the uploaded link 
 
-I saved this as `photo.php.` to exploit the improper validation of file extensions
+I saved this as `photo.php` to exploit the improper validation of file extensions
 
 ---
 
