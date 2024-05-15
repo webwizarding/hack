@@ -52,6 +52,8 @@ Using the website's upload feature I uploaded `photo.php` The application proces
 
 If you didnt notice already the link extension to the uploaded files is `/uploads/`
 
+---
+
 ### Step 3: Executing the Malicious File
 
 With the script uploaded I accessed via link
