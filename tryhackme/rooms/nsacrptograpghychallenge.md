@@ -1,5 +1,9 @@
 # Shitty CTF challenge 
-https://tryhackme.com/r/room/nsacrptograpghychallenge
+
+`https://tryhackme.com/r/room/nsacrptograpghychallenge`
+
+Deleted by author because he knows its bad and doesn't know anything about CTF challenges.
+
 ---
 
 ## Challenge
